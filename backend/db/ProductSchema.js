@@ -4,13 +4,10 @@ const ProductSch = new mongoose.Schema({
     price:Number,
     brand:String,
     category:String,
-    description: String,
-    user_id:String,
-    image:
-    {
-        data: Buffer,
-        contentType: String
-    }
+    vat: Number,
+    quantity:Number,
+    description:String,
+    user_id:String
 });
 
 module.exports = mongoose.model('products',ProductSch);
