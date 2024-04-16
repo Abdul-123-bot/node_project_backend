@@ -51,16 +51,13 @@ Once you have installed the dependencies, you can start the server and client ap
 
 ##Server (Node.js)
 From the root directory of the project:
-   
-   ```bash
-   npm start
+
 
 The server will start running at http://localhost:5000.
 
 #Client (React)
 From the client/ directory:
-
-
+      
 
 
 # Getting Started with the front-end part:
