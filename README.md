@@ -1,6 +1,7 @@
 # BOSS (Backend Operations Service System)
 
 == Introduction
+BOSS is defined as Backend Operations Service System. It is an inventory management tool providing comprehensive features such as Sales, Purchase, Delivery, Goods Received,Stock Count, Analysis and Transaction Report.
 # Getting Started
 
 To get started with running this project locally, follow the instructions below:
