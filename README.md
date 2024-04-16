@@ -13,6 +13,8 @@ BOSS is defined as Backend Operations Service System. It is an inventory managem
 
 The ER diagram for the whole model can be found below:
 
+![Screenshot](https://github.com/Abdul-123-bot/node_project_backend/blob/main/ER-diagram.png)
+
 
 
 
