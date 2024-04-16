@@ -17,7 +17,7 @@ Make sure you have the following software installed on your system:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/Abdul-123-bot/node_project_backend/
 
 
 
