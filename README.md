@@ -1,7 +1,19 @@
 # BOSS (Backend Operations Service System)
 
 == Introduction:
-BOSS is defined as Backend Operations Service System. It is an inventory management tool providing comprehensive features such as Sales, Purchase, Delivery, Goods Received,Stock Count, Analysis and Transaction Report.
+BOSS is defined as Backend Operations Service System. It is an inventory management tool providing comprehensive features such as  Add/Delete/Update Items, Purchase Items, Feedback on Items, Product Delivery, Product Shipment Estimate Time, and Goods Received.
+•	Add/Update/Delete Items: Adding new items in the inventory, adjusting the existing stock in the inventory and deleting them.
+•	Purchase Items: Customer can purchase items from the store.
+•	Feedback on Items: Customer can provide feedback on the items brought from the store.
+•	Product Delivery: Product can be delivered from the store to the place where the customer requires it to get delivered.
+•	Product Shipment Estimate Time: BOSS provides an estimate time for the shipment to reach the customer.
+•	Goods received: Markdown the inventory received from the vendor.
+
+
+
+
+
+
 # Getting Started
 
 To get started with running this project locally, follow the instructions below:
