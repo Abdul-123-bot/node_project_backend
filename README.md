@@ -24,8 +24,8 @@ Make sure you have the following software installed on your system:
 
 - Node.js and npm (Node Package Manager) - [Download and install Node.js](https://nodejs.org/)
 - Git - [Download and install Git](https://git-scm.com/)
-- MongoDB - Download and install MongoDB
-- React - Create React App
+- MongoDB - [Download and install MongoDB](https://www.mongodb.com/try/download/community)
+- React - [Create React App](https://react.dev/learn/installation)
 
 ### Installation
 
