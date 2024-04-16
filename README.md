@@ -75,7 +75,7 @@ From the client/ directory:
 # Getting Started with the front-end part:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+The BOSS project, built on React, is a powerful inventory management system that streamlines your business operations. Leveraging the flexibility and performance of React, the application offers a seamless user experience, enabling efficient management of sales, purchases, deliveries, goods received, stock counts, and comprehensive reporting.
 ## Available Scripts
 
 In the project directory, you can run:
