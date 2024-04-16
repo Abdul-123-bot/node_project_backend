@@ -12,6 +12,8 @@ Make sure you have the following software installed on your system:
 
 - Node.js and npm (Node Package Manager) - [Download and install Node.js](https://nodejs.org/)
 - Git - [Download and install Git](https://git-scm.com/)
+- MongoDB - Download and install MongoDB
+- React - Create React App
 
 ### Installation
 
@@ -19,6 +21,45 @@ Make sure you have the following software installed on your system:
 
    ```bash
    git clone https://github.com/Abdul-123-bot/node_project_backend/
+
+2. Navigate to the project directory:
+
+    ```bash
+      cd node_project
+
+3. Navigate to the backend directory:
+
+    ```bash
+      cd backend
+   
+4. Install dependencies for the server (Node.js):
+   
+   ```bash
+      npm install
+5. Navigate to the client directory (React):
+
+   ```bash
+      cd front-end
+   
+6. Install dependencies for the client (React):
+
+   ```bash
+      npm install
+
+#Running the Application
+Once you have installed the dependencies, you can start the server and client applications separately.
+
+##Server (Node.js)
+From the root directory of the project:
+   
+   ```bash
+   npm start
+
+The server will start running at http://localhost:5000.
+
+#Client (React)
+From the client/ directory:
+
 
 
 
