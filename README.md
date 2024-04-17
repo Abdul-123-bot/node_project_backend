@@ -117,44 +117,22 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-**Learn More**
+**Technologies Used in Our Project:**
+**Front-End Technologies**
+1) HTML-Hypertext Markup Language. In our Project, HTML is used to define the structure and content of web pages, including headers, paragraphs, lists, and other elements. It works in conjunction with CSS for styling and JavaScript for adding interactivity, creating a dynamic user interface. HTML forms are essential for collecting user input, which is then processed on the server-side using server-side technologies.
+2) CSS - Cascading Style Sheets. In our project, CSS was used to define fonts, colors, layouts, and other visual aspects of HTML elements. CSS enables creating responsive and dynamic user interfaces by providing techniques for expanding and collapsing content It is an important technique in modern web development, which allowed us to build dynamic and responsive user experiences.
+3) React- It is a high-level, dynamic, and interpreted programming language. JavaScript is the most widely used programming language for client-side scripting in web development, and it is also increasingly used on the server-side with Node.js. Its versatility and ubiquity make it an essential tool for modern web development.
+**Back-end Technologies**
+1)Node.js - Node.js is an open-source, cross-platform JavaScript runtime environment that we used to run JavaScript code outside of a web browser. It is designed for building scalable network applications using an event-driven, non-blocking I/O model, making it efficient and well-suited for data-intensive real-time applications. 
+2)Express.js - Express.js is a popular and minimalist Node.js web application framework that simplifies the process of building server-side applications and APIs.It has become the de facto standard for building back-end applications with Node.js, as it makes easier to create scalable and efficient server-side solutions with JavaScript. 
+3)Javascript - JavaScript is a multi-paradigm language, supporting object-oriented, functional, and imperative programming styles. It has a wide range of features, including variables, data types, operators, control flow, and functions. We have used it in the client-side scripting in web development, and it is also increasingly used on the server-side with Node.js.
+**Database Technology**
+Mongo DB - MongoDB is a popular, open-source, document-oriented database that provides high performance, high availability, and easy scalability. It stores data in flexible, JSON-like documents, allowing for dynamic schemas. MongoDB supports features like ad-hoc queries, indexing, and real-time aggregation, making it well-suited for modern web applications.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-**Code Splitting**
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-**Analyzing the Bundle Size**
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-**Making a Progressive Web App**
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-**Advanced Configuration**
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-**Deployment**
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-#### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-##BOSS usage:
-
--Demo
+** BOSS Usage Demo**
 
 
 https://github.com/Abdul-123-bot/node_project_backend/assets/72990954/271b6bbc-f442-465a-9379-1127fdd214e0
 
-
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID_HERE](https://github.com/Abdul-123-bot/node_project_backend/blob/main/video1519689395-ezgif.com-video-cutter.mp4))
 
 
