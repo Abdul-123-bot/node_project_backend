@@ -150,5 +150,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 #BOSS usage:
 
 -Demo
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID_HERE](https://github.com/Abdul-123-bot/node_project_backend/blob/main/video1519689395-ezgif.com-video-cutter.mp4)" frameborder="0" allowfullscreen></iframe>
+
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID_HERE](https://github.com/Abdul-123-bot/node_project_backend/blob/main/video1519689395-ezgif.com-video-cutter.mp4))
+
 
