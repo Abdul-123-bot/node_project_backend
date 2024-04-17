@@ -1,6 +1,6 @@
 # BOSS (Backend Operations Service System)
 
-**Introduction:**
+### Introduction:
 BOSS is defined as Backend Operations Service System. It is an inventory management tool providing comprehensive features such as  Add/Delete/Update Items, Purchase Items, Feedback on Items, Product Delivery, Product Shipment Estimate Time, and Goods Received.
 *	Add/Update/Delete Items: Adding new items in the inventory, adjusting the existing stock in the inventory and deleting them.
 *	Purchase Items: Customer can purchase items from the store.
@@ -9,7 +9,7 @@ BOSS is defined as Backend Operations Service System. It is an inventory managem
 *	Product Shipment Estimate Time: BOSS provides an estimate time for the shipment to reach the customer.
 *	Goods received: Markdown the inventory received from the vendor.
 
-**Architecture:**
+### Architecture:
 
 ![Screenshot](https://github.com/Abdul-123-bot/node_project_backend/raw/main/image.png)
 
@@ -20,10 +20,10 @@ The ER diagram for the whole model can be found below:
 
 
 
-**BOSS Intstallation:**
+### BOSS Intstallation:
 To get started with running this project locally, follow the instructions below:
 
-### Prerequisites
+**Prerequisites:**
 
 Make sure you have the following software installed on your system:
 
@@ -32,7 +32,7 @@ Make sure you have the following software installed on your system:
 - MongoDB - [Download and install MongoDB](https://www.mongodb.com/try/download/community)
 - React - [Create React App](https://react.dev/learn/installation)
 
-### Installation
+**Installation:**
 
 1. Clone the repository to your local machine:
 
@@ -63,21 +63,21 @@ Make sure you have the following software installed on your system:
    ```bash
       npm install
 
-#Running the Application
+**Running the Application:**
 Once you have installed the dependencies, you can start the server and client applications separately.
 
-##Server (Node.js)
+**Server (Node.js):**
 From the root directory of the project:
 
 
 The server will start running at http://localhost:5000.
 
-#Client (React)
+**Client (React):**
 From the client/ directory:
       
 
 
-# Getting Started with the front-end part:
+**Getting Started with the front-end part:**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 The BOSS project, built on React, is a powerful inventory management system that streamlines your business operations. Leveraging the flexibility and performance of React, the application offers a seamless user experience, enabling efficient management of sales, purchases, deliveries, goods received, stock counts, and comprehensive reporting.
