@@ -9,6 +9,8 @@ BOSS is defined as Backend Operations Service System. It is an inventory managem
 *	Product Shipment Estimate Time: BOSS provides an estimate time for the shipment to reach the customer.
 *	Goods received: Markdown the inventory received from the vendor.
 
+#Architecture:
+
 ![Screenshot](https://github.com/Abdul-123-bot/node_project_backend/raw/main/image.png)
 
 The ER diagram for the whole model can be found below:
