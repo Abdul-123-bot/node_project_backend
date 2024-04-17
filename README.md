@@ -20,9 +20,7 @@ The ER diagram for the whole model can be found below:
 
 
 
-
-# Getting Started
-
+**BOSS Intstallation:**
 To get started with running this project locally, follow the instructions below:
 
 ### Prerequisites
