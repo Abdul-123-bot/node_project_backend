@@ -23,7 +23,7 @@ The ER diagram for the whole model can be found below:
 ### BOSS Installation:
 To get started with running this project locally, follow the instructions below:
 
-**Prerequisites:**
+**Prerequisite Software to be Installed before compiling and testing BOSS:**
 
 Make sure you have the following software installed on your system:
 
@@ -32,7 +32,7 @@ Make sure you have the following software installed on your system:
 - MongoDB - [Download and install MongoDB](https://www.mongodb.com/try/download/community)
 - React - [Create React App](https://react.dev/learn/installation)
 
-**Installation:**
+**BOSS Compilation Steps in local machine:**
 
 1. Clone the repository to your local machine:
 
